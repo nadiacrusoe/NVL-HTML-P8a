@@ -1,22 +1,20 @@
 <!DOCTYPE html>
- <html>
+ <html lang="es">
   <head>
    <meta charset="UTF-8">
     <title> My test page </title>
   </head>
   <body>
    <h1> Teoría del caos </h1>
-  <div>
+  <div> </div>
    <header>
    <p>La <b>teoría del caos</b> es la rama de las <a href="https://es.wikipedia.org/wiki/Matem%C3%A1ticas">matemáticas</a>, la <a href="https://es.wikipedia.org/wiki/F%C3%ADsica">física</a> y otras <a href="https://es.wikipedia.org/wiki/Ciencia">ciencias</a> (biología, meteorología, economía, entre otras) que trata ciertos tipos de sistemas complejos y sistemas dinámicos no lineales muy sensibles a las variaciones en las condiciones iniciales. Pequeñas variaciones en dichas condiciones iniciales pueden implicar grandes diferencias en el comportamiento futuro, imposibilitando la predicción a largo plazo. Esto sucede aunque estos sistemas son en rigor deterministas, es decir; su comportamiento puede ser completamente determinado conociendo sus condiciones iniciales.
    </header>
-  </div>
-  <div>
+  <div> </div>
    <h2> Definición </h2>
    <hr/>
    <p>La teoría del caos explica que el resultado de algo depende de distintas variables y que es imposible de predecir. Por ejemplo, si colocamos un huevo en la cúspide de una pirámide no sabremos hacia dónde caerá. </p>
-  </div>
-  <div>
+  <div> </div>
   <h2>Clasificación de los sistemas</h2>
    <hr/>
    <p> Los sistemas dinámicos se pueden clasificar básicamente en:
@@ -25,13 +23,11 @@
       <li><b>Inestables</b>, cuando dos soluciones con condiciones iniciales diferentes acaban divergiendo por pequeñas que sean las condiciones iniciales. Así un sistema inestable "escapa" de los atractores.</li>
       <li><b>Caóticos</b>, cuando el sistema no es inestable y si bien dos soluciones se mantienen a una distancia "finita" cercana a un atractor del sistema dinámico, las soluciones se mueven en torno al atractor de manera irregular y pasado el tiempo ambas soluciones no son cercanas, si bien suelen ser cualitativamente similares. De esa manera, el sistema permanece confinado en una zona de su espacio de estados, pero sin tender a un atractor fijo.</li>
     </ul>
-     Una de las principales características tanto de los sistemas inestables como los caóticos es que tienen una gran dependencia de las condiciones iniciales (esto diferencia a ambos tipos de los sistemas estables). De un sistema del que se conocen sus ecuaciones de evolución temporal características, y con unas condiciones iniciales fijas, se puede conocer exactamente su evolución en el tiempo. Pero en el caso de los sistemas caóticos, una mínima diferencia en esas condiciones hace que el sistema evolucione de manera totalmente distinta. Ejemplos de tales sistemas incluyen el Sistema Solar, las placas tectónicas, los fluidos en régimen turbulento y los crecimientos de población.<sup>1<sup>
+     Una de las principales características tanto de los sistemas inestables como los caóticos es que tienen una gran dependencia de las condiciones iniciales (esto diferencia a ambos tipos de los sistemas estables). De un sistema del que se conocen sus ecuaciones de evolución temporal características, y con unas condiciones iniciales fijas, se puede conocer exactamente su evolución en el tiempo. Pero en el caso de los sistemas caóticos, una mínima diferencia en esas condiciones hace que el sistema evolucione de manera totalmente distinta. Ejemplos de tales sistemas incluyen el Sistema Solar, las placas tectónicas, los fluidos en régimen turbulento y los crecimientos de población.<sup>1</sup>
    </p>
-  </div>
-  <div>
+  <div> </div>
   <hr/>
-  <p><sup>1</sup><a href="https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-50062009000500003&lng=es&nrm=iso&tlng=es"</a> «Análisis Computacional de Modelos Biológicos para su Aplicación a Modelos Económicos». CIT Internacional.</p>
- </div>
+  <p><sup>1</sup><a href="https://scielo.conicyt.cl/scielo.php?script=sci_abstract&pid=S0718-50062009000500003&lng=es&nrm=iso&tlng=es"> «Análisis Computacional de Modelos Biológicos para su Aplicación a Modelos Económicos»</a>. CIT Internacional.</p>
  </body>
  </html>
  
